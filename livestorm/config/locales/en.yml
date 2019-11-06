@@ -1,0 +1,22 @@
+en:
+  welcome: "Welcome in Livestorm Lunch Game"
+  ready: "ready to play with me ? "
+  step_1: "U are in step_1 "
+  step_2: "U are in step_2 "
+  room_greatings: "You are now in %{param}"
+  enemy_greatings: "Hi ! My name is %{param}"
+  rules: " At each level of this game,\n
+          a super vilain will ask you a question\n
+          Find the correct answer to go to the next level.\n"
+  help_info: "anytime you can press 'h' to see the help command"
+  help: "\n
+        Help section , Press CTRL-D or CTRL-Z to exit,\n
+        List of command :\n
+        (Use ↑/↓ arrow keys, then press Enter to select)\n"
+  positive: "yes"
+  negative: "no"
+  wrong: "Damn ! you loose.. see you soon"
+  bye: "Thanks for playing with us, see you soon"
+  right: "You got it !"
+  congrats: "You are a Champion !!"
+  final_level: "Welcome to the Big Boss Area"

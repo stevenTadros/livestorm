@@ -1,0 +1,53 @@
+{
+    "rooms": [
+        {
+            "id": 1,
+            "name": "Gotham city",
+            "enemy": 1
+        },
+        {
+            "id": 2,
+            "name": "Asgard",
+            "enemy": 2
+        },
+        {
+            "id": 3,
+            "name": "Arkham Hospital",
+            "enemy": 3
+        }
+    ],
+    "enemies": [
+        {
+            "id": 1,
+            "name": "Lex Luthor",
+            "question": "Can I beat Batman ?",
+            "narrative": "I have a question for you !!!"
+        },
+        {
+            "id": 2,
+            "name": "Loki",
+            "question": "Am I the cousin of Thor?",
+            "narrative": "I have a question for you !!!"
+        },
+        {
+            "id": 3,
+            "name": "The Joker",
+            "question": "Am I in love with Harley?",
+            "narrative": "I have a question for you !!!"
+        }
+    ],
+    "answers": [
+        {
+            "id": 1,
+            "result": "no"
+        },
+        {
+            "id": 2,
+            "result": "no"
+        },
+        {
+            "id": 3,
+            "result": "yes"
+        }
+    ]
+}
