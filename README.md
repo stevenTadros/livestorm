@@ -1,13 +1,13 @@
-##Welcome on livestormGame##
+## Welcome on livestormGame ##
 
 
-###Prerequisite :###
+### Prerequisite : ###
 
 **This App need ruby 2.6.5**
 
-###Getting Started :###
+### Getting Started : ###
 
-**After cloning the repository and once in the "livestorm" directory**
+**After cloning the repository and once in the "livestormGame" directory**
 **You can set your environment and launch the game by different way**
 
 **Rbenv exemple:**
@@ -21,4 +21,4 @@
 ```
 
 
-######Stadros2019######
+###### Stadros2019 ######
