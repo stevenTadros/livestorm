@@ -19,6 +19,7 @@ sh run.sh
 ```
 docker build -t livestorm:latest -t livestorm .
 docker run -i -t livestorm /bin/bash
+ruby run.rb
 ```
 
 
